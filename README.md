@@ -7,7 +7,6 @@ This ZIP file contains the full Dataiku DSS project export, including all:
 - Datasets and recipes
 - Machine learning models
 - Data preparation flows
-- Scripts and documentation
 ## Summary
 - **Data Source:** `booking_train.csv` & `booking_test.csv`
 - **Platform Used:** Dataiku DSS
